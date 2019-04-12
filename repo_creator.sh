@@ -13,5 +13,5 @@ git checkout master
 git merge "interests"
 git remote add origin https://github.com/Darshan0026/darshan.git
 git add "repo_creator.sh"
-git push -u origin master
+git push origin master
 
